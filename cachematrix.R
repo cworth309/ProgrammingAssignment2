@@ -4,6 +4,7 @@
 ## Write a short comment describing this function
 ## This function creates a special "matrix" object that can cache its inverse.
 ## Created by Carey W. Worth
+## Date July 2015
 
 makeCacheMatrix <- function(x = matrix()) {
     
